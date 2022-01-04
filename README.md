@@ -1,4 +1,5 @@
 # Playing-with-Turtle
+Just run/open the code in IDLE the turtle graphics interface should work great.
 I was playing with turtle a bit and liked the pattern, will play more around with it brings back school memories when turtle was a thing and thaught in school.
 Lets bring back turtle.
 Turtle is a Python library which used to create graphics, pictures, and games. It was developed by Wally Feurzeig, Seymour Parpet and Cynthina Slolomon in 1967. It was a part of the original Logo programming language.
